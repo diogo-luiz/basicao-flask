@@ -1,3 +1,3 @@
 # Aprendendo flask
-### Tech Wtih Tim
+### Tech With Tim
 URL: https://youtube.com/watch?v=kng-mJJby8g
