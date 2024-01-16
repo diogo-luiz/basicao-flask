@@ -6,6 +6,7 @@ body {
 .image {
     max-width: 200px;
     border: 3px solid rgb(38, 156, 186);
-    border-radius: 7px;
+    border-radius: 16px;/* 1 rem  igual a 16px */
+    margin-top: 5rem;
     margin-left: 25px;
 }
